@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62aea198-0419-481c-8844-e8ee9c7fda63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kWmnYkBQ2z45dA8J2044KvfKWy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.Get_By_Id.Scenrio_two">
+    <configuration name="Create_post.Post_Request (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Create_post" />
+      <option name="METHOD_NAME" value="Post_Request" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Create_post.Post_Request (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Create_post" />
+      <option name="METHOD_NAME" value="Post_Request" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Create_post.Post_Request (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Create_post" />
+      <option name="METHOD_NAME" value="Post_Request" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get_By_Id" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Get_By_Id" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get_By_Id.Scenrio_two" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Get_By_Id" />
+      <option name="METHOD_NAME" value="Scenrio_two" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Get_By_Id.Scenrio_two" />
+        <item itemvalue="TestNG.Get_By_Id" />
+        <item itemvalue="TestNG.Create_post.Post_Request (4)" />
+        <item itemvalue="TestNG.Create_post.Post_Request (1)" />
+        <item itemvalue="TestNG.Create_post.Post_Request (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62aea198-0419-481c-8844-e8ee9c7fda63" name="Default Changelist" comment="" />
+      <created>1605824888205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605824888205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1605990042724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605990042724" />
+    <state width="1323" height="210" key="GridCell.Tab.0.bottom" timestamp="1605920352060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605920352060" />
+    <state width="1323" height="210" key="GridCell.Tab.0.center" timestamp="1605920352060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605920352060" />
+    <state width="1323" height="210" key="GridCell.Tab.0.left" timestamp="1605920352060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605920352060" />
+    <state width="1323" height="210" key="GridCell.Tab.0.right" timestamp="1605920352060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605920352060" />
+    <state x="65" y="59" key="new project wizard" timestamp="1605990044324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1605990044324" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1605908077120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605908077120" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605825570359">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605825570359" />
+  </component>
+</project>
